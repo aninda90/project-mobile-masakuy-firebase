@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082672741626",
+    "project_id": "masakuy-92c3c",
+    "storage_bucket": "masakuy-92c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082672741626:android:511d3d5867440804431d43",
+        "android_client_info": {
+          "package_name": "com.example.masakuy_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH8R5YL_BMNUfeddhHG6d8T-PeMUVDcYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
